@@ -29,6 +29,10 @@ Step 9: Click on   PRINT  button to print the webpage.
 
 Step 10: Click on   RESET  button to refresh the webpage.
 
+
+
+
+
 ## FORMULA
 
 Actual Energy (A) = 
