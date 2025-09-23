@@ -30,6 +30,7 @@ Step 9: Click on   PRINT  button to print the webpage.
 Step 10: Click on   RESET  button to refresh the webpage.
 
 ## FORMULA
+
 Actual Energy (A) = 
 V*I*T /1000     kw-hr
 
@@ -49,9 +50,3 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 ## Result
 
 To measure energy using Single Phase Energy Meter is successfull completed.
-
-
-
-
-
-
