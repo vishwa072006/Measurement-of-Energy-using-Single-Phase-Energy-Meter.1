@@ -48,8 +48,11 @@ R−A /A *100%
 Enter the no. of times Green LED blinks in 1min(Meter Counter):  
 
 ## Circuit Connection Diagram with Tabulation 
+
 <img width="1103" height="478" alt="image" src="https://github.com/user-attachments/assets/1c1275e5-8275-4928-8c74-5a0eb666ccb9" />
+
 ## Output
+
 <img width="894" height="490" alt="eng" src="https://github.com/user-attachments/assets/da81298a-a1e0-46f7-a4e0-12abd3da4d9f" />
 
 ## Result
